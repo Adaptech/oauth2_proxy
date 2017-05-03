@@ -8,7 +8,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/coreos/go-oidc/oidc"
+	"github.com/Adaptech/go-oidc/oidc"
 )
 
 type OIDCProvider struct {
