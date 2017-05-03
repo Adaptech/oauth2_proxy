@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/ppickfor/oauth2_proxy/api"
+	"github.com/Adaptech/oauth2_proxy/api"
 )
 
 type GitLabProvider struct {

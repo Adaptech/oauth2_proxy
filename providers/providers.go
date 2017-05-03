@@ -1,7 +1,7 @@
 package providers
 
 import (
-	"github.com/ppickfor/oauth2_proxy/cookie"
+	"github.com/Adaptech/oauth2_proxy/cookie"
 )
 
 type Provider interface {

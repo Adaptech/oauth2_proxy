@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ppickfor/oauth2_proxy/cookie"
+	"github.com/Adaptech/oauth2_proxy/cookie"
 )
 
 type SessionState struct {
