@@ -51,7 +51,6 @@ func NewOIDCProvider(p *ProviderData) *OIDCProvider {
 		HTTPClient:     httpClient,
 		ProviderConfig: cfg,
 		Credentials:    cc,
-		RedirectURL:    "/oauth2/callback",
 	}
 
 	client, err := oidc.NewClient(ccfg)
